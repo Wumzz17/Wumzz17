@@ -1,11 +1,14 @@
-![Header](./your-header-image-name.png)
-# Hi there 👋🏾 I'm Wunmi
+# Hi, I'm Wunmi 👋🏾💻
+![github-header-image-2](https://github.com/Wumzz17/Wumzz17/assets/165505912/962f5df8-ecfe-45e3-99a4-f78f7c5091a7)
+
 Currently a student at Co-Grammar's Software Engineering Bootcamp looking to kick start a career in tech.
 Proven abilities using pyhton for coding as well as Engineering softwares including AutoCAD, Revit and Sketchup.
-Passionate about being able to find solutions to real world problems through the use of Code and creating a better world around us.
+Passionate about being able to find solutions to real world problems through the use of code and creating a better world around us.
+
 
 ## How to Reach me
-You can connect with me via my [LinkedIn](https://www.linkedin.com/in/wunmi-ajose/)
+You can connect with me via my [LinkedIn](https://www.linkedin.com/in/wunmi-ajose/).
+Hope to hear from you soon!
 
 <!--
 **Wumzz17/Wumzz17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
